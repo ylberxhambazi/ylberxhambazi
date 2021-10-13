@@ -2,6 +2,8 @@
 
 I'm Ylber, I'm 30 years old and I'm working as a software developer in <a href="https://ecolog-international.com/" target="_blank"><img src="https://ecolog-international.com/wp-content/uploads/2019/11/logo.svg" width="60" /></a> and working on outside projects
 
+- 💬 Ask me about anything [here](https://github.com/ylberxhambazi/ylberxhambazi/issues)
+
 <!--
 **ylberxhambazi/ylberxhambazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
