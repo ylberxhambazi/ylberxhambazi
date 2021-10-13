@@ -11,25 +11,29 @@ Here are some ideas to get you started:
 ### 🔭 I’m currently working
 
 - company projects
-  - Timesheet
+
+  <!-- - Timesheet
   - Ticketing management system
   - COVID-19 apps (EcoCare)
   - Customer portal
   - Chrome plugin
   - Cloud document register
-  - etc
+  - etc -->
+
 - freelance projects
   - Dating app
   - Dental
-  - Global tv (IPTV)
+  <!-- - Global tv (IPTV)
   - Shabani transporte
-  - Rrika energie
+  - Rrika energie -->
   - Venera recipes
 
 ### 🌱 I’m currently learning
 
 - Frontend
-  - HTML 5
+  - Angular
+  - Vue.js
+  <!--  - HTML 5
   - HTML 5 APIs
   - CSS 3
   - Bootstrap
@@ -44,8 +48,8 @@ Here are some ideas to get you started:
       - Chart.js
       - fullPage.js
   - Wordpress
-  - TypeScript
-- Backend
+  - TypeScript-->
+  <!-- - Backend
   - ASP.NET
   - ASP.NET Core
   - C#
@@ -53,9 +57,8 @@ Here are some ideas to get you started:
 - Database
   - SQL Server
   - MySQL
-  - NoSQL
-    - DBpedia
-    - Linked Movie Data Base
+  - NoSQL - DBpedia - Linked Movie Data Base
+    -->
 
 ### 📦 Github status
 
