@@ -55,11 +55,7 @@ Here are some ideas to get you started:
   - ASP.NET
   - ASP.NET Core
   - C#
-  - PHP
-- Database
-  - SQL Server
-  - MySQL
-  - NoSQL - DBpedia - Linked Movie Data Base
+  - PHP - Database - SQL Server - MySQL - NoSQL - DBpedia - Linked Movie Data Base
     -->
 
 ### 📦 Github status
