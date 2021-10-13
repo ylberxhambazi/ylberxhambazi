@@ -1,6 +1,8 @@
-### Hi there 👋
+### 👋 Hi there
 
 I'm Ylber, I'm 30 years old and I'm working as a software developer in <a href="https://ecolog-international.com/" target="_blank"><img src="https://ecolog-international.com/wp-content/uploads/2019/11/logo.svg" width="60" /></a> and working on outside projects
+
+### 📫 How to reach me:
 
 ![Visits Badge](https://badges.pufler.dev/visits/ylberxhambazi/ylberxhambazi?logo=GitHub&color=blueviolet&style=flat-square)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ylberxhambazi/)
@@ -18,13 +20,17 @@ Here are some ideas to get you started:
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
 
-## Github status
+### Github status
 
+| <a href="https://github.com/ylberxhambazi/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ylberxhambazi&theme=graywhite&show_icons=true&count_private=true" alt="Ylber's github stats" /></a> | <a href="https://github.com/ylberxhambazi/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylberxhambazi&hide=php&theme=graywhite" /></a> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=ylberxhambazi&theme=graywhite&show_icons=true&count_private=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ylberxhambazi&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylberxhambazi&hide=php" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylberxhambazi&hide=php&theme=graywhite" />-->
